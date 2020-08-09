@@ -1,20 +1,156 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="129px" height="368px" viewBox="0 0 129 368" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
-    <title>moutain/element/wave/wave-left</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#0D66F3" offset="0%"></stop>
-            <stop stop-color="#4356BF" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Ressources" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="moutain/element/wave/wave-left" fill="url(#linearGradient-1)">
-            <g id="Wave" transform="translate(15.000000, 192.500000) scale(-1, 1) translate(-15.000000, -192.500000) translate(-117.000000, 1.000000)">
-                <path d="M50.085356,76.5983758 C107.561887,84.7648529 158.997154,95.0643259 181.313087,107.43174 C225.978483,132.185149 227.250242,200.894841 171.849244,361.273031 C123.892486,249.116812 88.0147436,163.314495 50.085356,76.5983758 Z" id="wave" transform="translate(132.127204, 218.935703) scale(-1, 1) rotate(23.000000) translate(-132.127204, -218.935703) "></path>
-                <path d="M117.297013,7.09509962 C130.01222,10.6942572 140.421231,14.516746 147.717462,18.5602922 C177.58821,35.1145584 188.051178,71.3282487 175.134503,141.47236 C156.748318,100.533944 137.350805,52.2769602 117.297013,7.09509962 Z" id="wave" opacity="0.22803442" transform="translate(148.935220, 74.283730) scale(-1, 1) rotate(23.000000) translate(-148.935220, -74.283730) "></path>
-            </g>
-        </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="wave-left.svg"
+   id="svg19"
+   version="1.1"
+   viewBox="0 0 129 368"
+   height="368px"
+   width="129px">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg19"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="184"
+     inkscape:cx="64.5"
+     inkscape:zoom="2.7391304"
+     showgrid="false"
+     id="namedview21"
+     inkscape:window-height="480"
+     inkscape:window-width="819"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">moutain/element/wave/wave-left</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs11">
+    <linearGradient
+       id="linearGradient-1"
+       y2="100%"
+       x2="50%"
+       y1="0%"
+       x1="50%">
+      <stop
+         id="stop6"
+         offset="0%"
+         stop-color="#0D66F3" />
+      <stop
+         id="stop8"
+         offset="100%"
+         stop-color="#4356BF" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.75920369,1.3171696)"
+       y2="274.27982"
+       x2="174.03393"
+       y1="58.15377"
+       x1="174.03393"
+       id="linearGradient25"
+       xlink:href="#linearGradient-1"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.68621157,1.4572765)"
+       y2="97.07997"
+       x2="217.0398"
+       y1="4.8687395"
+       x1="217.0398"
+       id="linearGradient27"
+       xlink:href="#linearGradient-1"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.57580116,1.7367106)"
+       y2="210.44297"
+       x2="158.83461"
+       y1="0.042745932"
+       x1="158.83461"
+       id="linearGradient29"
+       xlink:href="#linearGradient-1"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.57580116,1.7367106)"
+       y2="211.01877"
+       x2="96.461854"
+       y1="0.61854709"
+       x1="96.461854"
+       id="linearGradient31"
+       xlink:href="#linearGradient-1"
+       inkscape:collect="always" />
+    <filter
+       id="filter37"
+       inkscape:label="Color Shift"
+       style="color-interpolation-filters:sRGB;">
+      <feColorMatrix
+         id="feColorMatrix33"
+         result="color1"
+         values="255"
+         type="hueRotate" />
+      <feColorMatrix
+         id="feColorMatrix35"
+         result="color2"
+         values="0.78"
+         type="saturate" />
+    </filter>
+  </defs>
+  <g
+     style="filter:url(#filter37)"
+     fill-rule="evenodd"
+     fill="none"
+     stroke-width="1"
+     stroke="none"
+     id="Ressources">
+    <g
+       style="fill:url(#linearGradient31)"
+       fill="url(#linearGradient-1)"
+       id="moutain/element/wave/wave-left">
+      <g
+         style="fill:url(#linearGradient29)"
+         transform="matrix(-1,0,0,1,147,1)"
+         id="Wave">
+        <path
+           style="fill:url(#linearGradient25)"
+           transform="matrix(-0.92050485,0.39073113,0.39073113,0.92050485,168.20594,-34.221886)"
+           id="wave"
+           d="m 50.085356,76.598376 c 57.476534,8.166477 108.911794,18.46595 131.227734,30.833364 44.66539,24.75341 45.93715,93.4631 -9.46385,253.84129 C 123.89249,249.11681 88.014744,163.31449 50.085356,76.598376 Z" />
+        <path
+           style="fill:url(#linearGradient27)"
+           transform="matrix(-0.92050485,0.39073113,0.39073113,0.92050485,257.00585,-52.288431)"
+           opacity="0.228034"
+           id="path14"
+           d="m 117.29701,7.0950996 c 12.71521,3.5991574 23.12422,7.4216464 30.42045,11.4651924 29.87075,16.554266 40.33372,52.767957 27.41704,122.912068 C 156.74832,100.53394 137.3508,52.27696 117.29701,7.0950996 Z" />
+      </g>
     </g>
+  </g>
 </svg>
